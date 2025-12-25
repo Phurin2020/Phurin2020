@@ -20,9 +20,10 @@ I enjoy turning complex logic into maintainable systems and building features th
 ### 🎮 [The Quarantine](https://store.steampowered.com/app/3025540/The_Quarantine/) – Upcoming Steam release
 *Jan 2025–Present (In development)*
 
-<p align="center">
-  <img src="Image/Quarantine.png" width="600"/>
-</p>
+<img src="Images/Image/Quarantine.png"
+     width="600"
+     height="340"
+     style="object-fit: cover;" />
 
 **Role:** Programmer
 **Team:** 9 people
@@ -33,6 +34,11 @@ I enjoy turning complex logic into maintainable systems and building features th
 
 ### 🎮 Ascended – Intern Project at Kanagawa Institute of Technology
 *Jun–Jul 2025*
+
+<img src="Images/Image/Ascended.png"
+     width="600"
+     height="340"
+     style="object-fit: cover;" />
 
 **Role:** Programmer
 **Team:** 2 people
@@ -45,6 +51,11 @@ I enjoy turning complex logic into maintainable systems and building features th
 
 ### 🍬 [Pop It!](https://globalgamejam.org/games/2025/pop-it-3) – Global Game Jam 2025
 *Event: Global Game Jam 2025 (RSU Site)· Result: 🥉 3rd Place (Popular Vote)*
+
+<img src="Images/Image/PopIt.png"
+     width="600"
+     height="340"
+     style="object-fit: cover;" />
 
 **Role:** Programmer
 **Team:** 7 people
