@@ -22,7 +22,6 @@ I enjoy turning complex logic into maintainable systems and building features th
 *Jan 2025–Present (In development)*
 
 **Role:** Programmer
-
 **Team:** 9 people
 - Designed and implemented a scalable Animation Controller with seamless transitions and gameplay integration.
 - Developed Dynamic Monster AI with adaptive behavior and environmental responsiveness.
@@ -33,7 +32,6 @@ I enjoy turning complex logic into maintainable systems and building features th
 *Jun–Jul 2025*
 
 **Role:** Programmer
-
 **Team:** 2 people
 - Implemented and iteratively refined a custom GOAP framework (actions, planning, execution) to drive autonomous agent behavior.
 - Integrated GOAP with building and market systems, enabling agents to plan around resources, tasks, and economic interactions.
@@ -46,7 +44,6 @@ I enjoy turning complex logic into maintainable systems and building features th
 *Event: Global Game Jam 2025 (RSU Site)· Result: 🥉 3rd Place (Popular Vote)*
 
 **Role:** Programmer
-
 **Team:** 7 people
 - Developed core gameplay systems for a competitive arcade experience built in 48 hours.
 - Implemented UI button systems with hover and click effects, including audio/visual feedback.
