@@ -20,6 +20,10 @@ I enjoy turning complex logic into maintainable systems and building features th
 ### 🎮 [The Quarantine](https://store.steampowered.com/app/3025540/The_Quarantine/) – Upcoming Steam release
 *Jan 2025–Present (In development)*
 
+<p align="center">
+  <img src="Image/Quarantine.png" width="600"/>
+</p>
+
 **Role:** Programmer
 **Team:** 9 people
 - Designed and implemented a scalable Animation Controller with seamless transitions and gameplay integration.
