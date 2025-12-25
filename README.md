@@ -22,8 +22,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 
 <img src="Images/Image/Quarantine.png"
      width="600"
-     height="340"
-     style="object-fit: cover;" />
+     height="340"/>
 
 **Role:** Programmer
 **Team:** 9 people
@@ -37,8 +36,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 
 <img src="Images/Image/Ascended.png"
      width="600"
-     height="340"
-     style="object-fit: cover;" />
+     height="340"/>
 
 **Role:** Programmer
 **Team:** 2 people
@@ -54,8 +52,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 
 <img src="Images/Image/PopIt.png"
      width="600"
-     height="340"
-     style="object-fit: cover;" />
+     height="340"/>
 
 **Role:** Programmer
 **Team:** 7 people
