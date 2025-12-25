@@ -19,8 +19,10 @@ I enjoy turning complex logic into maintainable systems and building features th
 ## 🧠 Featured Projects
 ### 🎮 [The Quarantine](https://store.steampowered.com/app/3025540/The_Quarantine/) – Upcoming Steam release
 *In development — Jan 2025–Present*
+
 **Role:** Programmer
 **Team:** 9 people
+
 - Designed and implemented a scalable Animation Controller with seamless transitions and gameplay integration.
 - Developed Dynamic Monster AI with adaptive behavior and environmental responsiveness.
 - Built reusable tools and systems to streamline iteration and reduce engineering overhead.
@@ -28,8 +30,10 @@ I enjoy turning complex logic into maintainable systems and building features th
 
 ### 🎮 [Ascended](https://store.steampowered.com/app/xxxxx/Ascended/) – Intern Project at Kanagawa Institute of Technology
 *Jun–Jul 2025*
+
 **Role:** Programmer
 **Team:** 2 people
+
 - Implemented and iteratively refined a custom GOAP framework (actions, planning, execution) to drive autonomous agent behavior.
 - Integrated GOAP with building and market systems, enabling agents to plan around resources, tasks, and economic interactions.
 - Developed world object, interactable, and belief systems linking environment state to AI decision-making.
@@ -39,8 +43,10 @@ I enjoy turning complex logic into maintainable systems and building features th
 
 ### 🍬 [Pop It!](https://globalgamejam.org/games/2025/pop-it-3) – Global Game Jam 2025
 *Event: Global Game Jam 2025 (RSU Site)· Result: 🥉 3rd Place (Popular Vote)*
+
 **Role:** Programmer
 **Team:** 7 people
+
 - Developed core gameplay systems for a competitive arcade experience built in 48 hours.
 - Implemented UI button systems with hover and click effects, including audio/visual feedback.
 - Built scene transition and loading logic to ensure smooth flow between game states.
