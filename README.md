@@ -17,7 +17,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 - **Tools:** Git, GitHub, Blender (basic modeling)
 
 ## 🧠 Featured Projects
-### 🎮 **The Quarantine(https://store.steampowered.com/app/3025540/The_Quarantine/)** – [Upcoming Steam release]
+### 🎮 [The Quarantine](https://store.steampowered.com/app/3025540/The_Quarantine/) – Upcoming Steam release
 *In development — Jan 2025–Present*
 **Role:** Programmer
 **Team:** 9 people
@@ -26,7 +26,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 - Built reusable tools and systems to streamline iteration and reduce engineering overhead.
 - Architected modular AI and animation systems for easy expansion and customization.
 
-### 🎮 **Ascended** – [Intern Project at Kanagawa Institute of Technology]
+### 🎮 [Ascended](https://store.steampowered.com/app/xxxxx/Ascended/) – Intern Project at Kanagawa Institute of Technology
 *Jun–Jul 2025*
 **Role:** Programmer
 **Team:** 2 people
@@ -37,7 +37,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 - Created 3D assets (houses, cooking pots, market stalls) and implemented interaction visuals.
 - Designed UI for time, character status, and resources, and applied camera post-processing to improve presentation.
 
-### 🍬 **Pop It!** – [Global Game Jam 2025](https://globalgamejam.org/games/2025/pop-it-3)
+### 🍬 [Pop It!](https://globalgamejam.org/games/2025/pop-it-3) – Global Game Jam 2025
 *Event: Global Game Jam 2025 (RSU Site)· Result: 🥉 3rd Place (Popular Vote)*
 **Role:** Programmer
 **Team:** 7 people
