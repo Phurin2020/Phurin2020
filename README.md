@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Phurin Methanawin (Peam)
+🎮 Game Developer | Unity (C#)
 
-<!--
-**Phurin2020/Phurin2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a game developer focused on **Unity gameplay systems and performance-aware design**.  
+I enjoy turning complex logic into maintainable systems and building features that scale.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- **Game Engine:** Unity
+- **Programming:** C#
+- **Gameplay:** Character controllers, monsters AI, inventory, save systems
+- **Optimization:** Memory usage, object lifecycle, pooling
+- **Tools:** Git, GitHub, Blender (basic modeling)
+
+## 🧠 Featured Projects
+### 🎮 **The Quarantine** – [Upcoming Steam release](https://store.steampowered.com/app/3025540/The_Quarantine/)
+- Designed and implemented a scalable Animation Controller with seamless transitions and gameplay integration.
+- Developed Dynamic Monster AI with adaptive behavior and environmental responsiveness.
+- Built reusable tools and systems to streamline iteration and reduce engineering overhead.
+- Architected modular AI and animation systems for easy expansion and customization.
