@@ -18,7 +18,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 
 ## 🧠 Featured Projects
 ### 🎮 [The Quarantine](https://store.steampowered.com/app/3025540/The_Quarantine/) – Upcoming Steam release
-*Jan 2025–Present(In development)*
+*Jan 2025–Present (In development)*
 
 **Role:** Programmer
 
