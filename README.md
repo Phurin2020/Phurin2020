@@ -28,7 +28,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 - Built reusable tools and systems to streamline iteration and reduce engineering overhead.
 - Architected modular AI and animation systems for easy expansion and customization.
 
-### 🎮 [Ascended] – Intern Project at Kanagawa Institute of Technology
+### 🎮 Ascended – Intern Project at Kanagawa Institute of Technology
 *Jun–Jul 2025*
 
 **Role:** Programmer
