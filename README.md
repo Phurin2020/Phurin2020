@@ -37,7 +37,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 - Created 3D assets (houses, cooking pots, market stalls) and implemented interaction visuals.
 - Designed UI for time, character status, and resources, and applied camera post-processing to improve presentation.
 
-🍬 Pop It! – [Global Game Jam 2025](https://globalgamejam.org/games/2025/pop-it-3)
+###🍬 **Pop It!** – [Global Game Jam 2025](https://globalgamejam.org/games/2025/pop-it-3)
 Event: Global Game Jam 2025 (RSU Site)· Result: 🥉 3rd Place (Popular Vote)
 **Role:** Programmer
 **Team:** 7 people
