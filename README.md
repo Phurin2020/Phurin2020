@@ -1,4 +1,4 @@
-## Hi, I'm Phurin Methanawin (Peam)
+## Hi, I'm Peam
 🎮 Game Developer | Unity (C#)
 
 I’m a game developer focused on **Unity gameplay systems and performance-aware design**.  
