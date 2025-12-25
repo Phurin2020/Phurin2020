@@ -17,7 +17,7 @@ I enjoy turning complex logic into maintainable systems and building features th
 - **Tools:** Git, GitHub, Blender (basic modeling)
 
 ## 🧠 Featured Projects
-### 🎮 **The Quarantine** – [Upcoming Steam release](https://store.steampowered.com/app/3025540/The_Quarantine/)
+### 🎮 **The Quarantine(https://store.steampowered.com/app/3025540/The_Quarantine/)** – [Upcoming Steam release]
 *In development — Jan 2025–Present*
 **Role:** Programmer
 **Team:** 9 people
